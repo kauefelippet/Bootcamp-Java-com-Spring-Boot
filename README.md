@@ -1,2 +1,3 @@
-# Bootcamp-Java-com-Spring-Boot
-Repositório com os conhecimentos obtidos ao longo do bootcamp Java com Spring Boot realizado na DIO.me.
+# Java com Spring Boot
+
+O presente repositório contém os conhecimentos obtidos ao longo do bootcamp Java com Spring Boot realizado na DIO.me.
