@@ -12,12 +12,12 @@ public class Telefonia {
 
         // Itere sobre os serviços contratados
         for (String servico : servicosContratados) {
-            if (servico.equals("tv")) {
-                tvContratada = true;
-            } else if (servico.equals("banda larga")) {
-                bandaLargaContratada = true;
-            } else if (servico.equals("movel")) {
-                movelContratado = true;
+            switch (servico) {
+                case "tv" -> tvContratada = true;
+                case "banda larga" -> bandaLargaContratada = true;
+                case "movel" -> movelContratado = true;
+                default -> {
+                }
             }
         }
 
