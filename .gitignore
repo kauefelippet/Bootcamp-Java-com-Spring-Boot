@@ -23,3 +23,12 @@
 hs_err_pid*
 replay_pid*
 basic-syntax/classes-anatomy/.vscode/settings.json
+/basic-syntax/bin/
+/basic-syntax/lib/
+/basic-syntax/.vscode/
+/.idea/
+/collections-api/list/out/
+/collections-api/list/.idea/
+/collections-api/list/list.iml
+/collections-api/collections-api.iml
+/basic-syntax/basic-syntax.iml
